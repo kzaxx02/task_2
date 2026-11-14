@@ -12,3 +12,4 @@ venv/
 *.swp
 *.zip
 *.tar.gz
+.DS_Store
